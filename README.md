@@ -1,4 +1,5 @@
-# color-palette-generator
+# Generador de Paletas de Colores
+<p align="center"><img src="web.png" /></p>
 
 ## Project setup
 ```
@@ -22,4 +23,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# color-palette-generator
